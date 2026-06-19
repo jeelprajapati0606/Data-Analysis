@@ -20,7 +20,7 @@
 - [🔍 Data Cleaning](#-data-cleaning)
 - [💡 Key Insights](#-key-insights)
 - [🚀 Getting Started](#-getting-started)
-- [📞 Contact & Support](#-contact--support)
+
 
 ---
 
@@ -470,7 +470,7 @@ After completing this analysis, you will understand:
 
 ---
 
-## 📞 Contact & Support
+
 
 ### 👤 Author Information
 
@@ -478,19 +478,6 @@ After completing this analysis, you will understand:
 - **GitHub:** [@jeelprajapati0606](https://github.com/jeelprajapati0606)
 - **Repository:** [Data-Analysis](https://github.com/jeelprajapati0606/Data-Analysis)
 
-### 💬 Questions & Feedback
-
-- 📧 Open an issue on GitHub for bug reports
-- 🤝 Contribute with your improvements
-- 💡 Share insights and suggestions
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the LICENSE file for details.
-
----
 
 ## 🎉 Acknowledgments
 
@@ -514,16 +501,5 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 
 ---
 
-<div align="center">
-
-### 🌟 If you find this analysis helpful, please star the repository! ⭐
-
-**Made with ❤️ by Jeel Prajapati**
-
-*Last Updated: 2024*
-
-</div>
-
----
 
 **[↑ Back to Top](#-blinkit-data-analysis-project)**
